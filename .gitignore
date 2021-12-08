@@ -1,0 +1,7 @@
+.vs/
+App.config
+bin/
+obj/
+Properties/
+StandardBasicCalculator.csproj
+Form1.resx
